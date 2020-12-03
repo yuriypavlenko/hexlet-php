@@ -1,0 +1,11 @@
+{
+    "name": "hex/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Yuriy Pavlenko",
+            "email": "yuriys.pavlenko@gmail.com"
+        }
+    ],
+    "require": {}
+}
